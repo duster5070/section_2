@@ -1,0 +1,38 @@
+#first_div
+{
+    background-image: url(../images/sukuna.jpg);
+    background-size: cover;
+    height: 500px;
+}
+#sec_div
+{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%;
+}
+#first_div div a
+{
+    display: inline-block;
+    text-decoration: none;
+    border: 3px solid yellow;
+    border-radius: 41%;
+    margin: 50px 20px;
+    width: 80px;
+    height: 30px;
+    text-align: center;
+    padding-top:5px ;
+}
+#first_link
+{
+    background-color: rgb(241, 179, 9);
+    color: #fff;
+    
+}
+#sec_link
+{
+    background-color: #fff;
+    color: rgb(255, 187, 0);
+}
+#container
+{
+    margin-left:640px ;
+}
